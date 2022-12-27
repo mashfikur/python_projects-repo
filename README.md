@@ -6,8 +6,8 @@ In this repo i have created some pyhton based projects inspired form creators on
 
 The python projects are-
 
-*Number guessing game
-*Memory quiz
+* Number guessing game
+* Memory quiz
 
 
 **And a lot of projects are going to come**
