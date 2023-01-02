@@ -8,6 +8,7 @@ The python projects are-
 
 * Number guessing game
 * Memory quiz
+* rock,paper,scissors game
 
 
 **And a lot of projects are going to come**
