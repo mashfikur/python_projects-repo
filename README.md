@@ -1,4 +1,4 @@
-# python_projects-repo
+# Python Projects
 
 These are a bunch of beginners python project !
 
