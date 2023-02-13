@@ -6,7 +6,8 @@ In this repo i have created some pyhton based projects inspired form creators on
 
 The python projects are-
 
-* Number guessing game
+* Number Guessing game
+* Number Identifier
 * Memory quiz
 * rock,paper,scissors game
 
